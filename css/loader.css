@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans+800');
+/* @import url('https://fonts.googleapis.com/css?family=Nunito+Sans+800'); */
 body {
   align-items: center;
   display: flex;
   flex-direction: column;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 1.5em;
   font-weight: bold;
   height: 100vh;
