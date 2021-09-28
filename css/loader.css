@@ -1,5 +1,6 @@
 /* @import url('https://fonts.googleapis.com/css?family=Nunito+Sans+800'); */
-loaderloaderloader.body {
+#sprinner,
+body {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -10,23 +11,24 @@ loaderloaderloader.body {
   justify-content: center;
   margin: 0;
 }
-loaderloaderloader.svg {
+#sprinner,
+svg {
   height: 200px;
   stroke-width:4;
 }
-loaderloaderloader.pig {
+.pig {
   stroke-dasharray: 319 319;
   stroke-dashoffset: 0px;
 }
-loaderloaderloader.calculator {
+.calculator {
   stroke-dasharray: 0 252;
   stroke-dashoffset: 0px;
 }
-loaderloaderloader.wallet {
+.wallet {
   stroke-dasharray: 0 240;
   stroke-dashoffset: 0px;
 }
-loaderloaderloader.loading {
+.loading {
   margin-bottom: 30px;
   text-align: center;
   width: 200px;
