@@ -1,6 +1,5 @@
 /* @import url('https://fonts.googleapis.com/css?family=Nunito+Sans+800'); */
-#sprinner,
-body {
+#spinner {
   align-items: center;
   display: flex;
   flex-direction: column;
@@ -11,8 +10,7 @@ body {
   justify-content: center;
   margin: 0;
 }
-#sprinner,
-svg {
+#spinner svg {
   height: 200px;
   stroke-width:4;
 }
